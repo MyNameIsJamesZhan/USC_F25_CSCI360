@@ -2,6 +2,7 @@
 
 Lab instruction: [`lab1.pdf`](lab1.pdf). Due on Sep, 19th 2025, EOD PT.
 
+**Submission**: Submit your lab1.py to Gradescope. Please keep the file name as **lab1.py** or else the autograder will fail.
 Extra credit instruction: Submit a separate pdf `lab1-extra-credit.pdf` with your analysis, figures, code to generate the figures, etc. Note that extra credits **do not** overflows, meaning a final score >60pts will be treated as 60pts.
 
 ## Setting up the environment
@@ -93,4 +94,4 @@ True
 ```
 All of your algorithm should be contained in the designated blocks
 inside of `breadth_first_search` and `depth_first_search` and should
-return the sequence of flips that your search algorithms find.
+return the sequence of flips that your search algorithms find. Have fun!
