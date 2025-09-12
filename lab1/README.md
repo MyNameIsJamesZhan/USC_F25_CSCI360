@@ -4,7 +4,7 @@ Lab instruction: [`lab1.pdf`](lab1.pdf). Due on Sep 19th, 2025, EOD PT.
 
 **Submission**: Submit your lab1.py to Gradescope. Please keep the file name as **lab1.py** or else the autograder will fail.
 
-Extra credit instruction: Submit a separate pdf `lab1-extra-credit.pdf` with your analysis, figures, code to generate the figures, etc. Note that extra credits **do not** overflow, meaning a final score >60pts will be treated as 60pts.
+Extra credit instruction: Submit a separate pdf `lab1-extra-credit.pdf` with your analysis, figures, code to generate the figures, etc. Note that extra credits **do not** overflow, meaning a final score >60pts will be treated as 60pts. Check [`lab1_extra_credits_rubrics.pdf`](lab1_extra_credits_rubrics.pdf) for details on extra credits grading.
 
 ## Setting up the environment
 
