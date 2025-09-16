@@ -1,6 +1,6 @@
 # Lab 1 (CSCI 360 - Introduction to Artificial Intelligence)
 
-Lab instruction: [`lab1.pdf`](lab1.pdf). Due on Sep 19th, 2025, EOD PT.
+Lab instruction: [`lab1.pdf`](lab1.pdf). Due on Sep 26th, 2025, EOD PT.
 
 **Submission**: Submit your lab1.py to Gradescope. Please keep the file name as **lab1.py** or else the autograder will fail.
 
