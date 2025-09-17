@@ -109,8 +109,8 @@ print(stack_ordered) # Should give you True
 For DFS, there are two potential results:
 
 ```
-dfs_expected_sequence_1 = \[4]
-dfs_expected_sequence_2 = \[
+dfs_expected_sequence_1 = [4]
+dfs_expected_sequence_2 = [
         1, 2, 1, 2, 1, 2, 1, 3, 1, 2, 1, 2, 1, 2, 1, 3, 1, 2, 1, 2, 1, 2, 1, 3, 1, 2, 1, 2, 1, 2, 1, 3, 1, 2, 1, 2, 1,
         2, 1, 3, 1, 2, 1, 2, 1, 2, 1, 4, 1, 2, 1, 2, 1, 2, 1, 3, 1, 2, 1, 2, 1, 2, 1, 3, 1, 2, 1, 2, 1, 2, 1, 3, 1, 2,
         1, 2, 1, 2, 1, 3, 1, 2, 1, 2, 1, 2, 1, 3, 1, 2, 1, 2, 1, 2, 1, 4, 1, 2, 1, 2, 1, 2, 1, 3, 1, 2, 1, 2, 1, 2, 1,
