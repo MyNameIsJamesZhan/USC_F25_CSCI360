@@ -94,7 +94,7 @@ False
 True
 ```
 
-## A Simple test case:
+## A Simple Test Case:
 ```
 test = TextbookStack(initial_order=[3, 2, 1, 0], initial_orientations=[0, 0, 0, 0])
 output_sequence = breadth_first_search(test)
