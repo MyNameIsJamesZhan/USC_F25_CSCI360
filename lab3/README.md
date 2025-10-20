@@ -11,7 +11,7 @@ Extra credit instruction: Include your extra credit work in the same Jupyter Not
 
 You can use any Python package that is installed by `pip` or `conda` when you create the environment.
 
-For clarity in your work, we recommend using Jupyter Notebook (`.ipynb` file) to organize your work. Use clear Markdown sections to indicate questions, code and results. A template is provided for `.ipynb` file: [solution4template.ipynb](solution4template.ipynb). Feel free to do your work in this template. 
+For clarity in your work, we recommend using Jupyter Notebook (`.ipynb` file) to organize your work. Use clear Markdown sections to indicate questions, code and results. A template is provided for `.ipynb` file: [lab4.ipynb](lab4.ipynb). Feel free to do your work in this template. 
 
 **Important**: Ensure your submitted `.ipynb` file includes both code and output from all executed cells, or points will be deducted.
 
