@@ -60,8 +60,8 @@ def breadth_first_search(stack):
         flip_list = search_queue.popleft()
         curr_stack = flip_list[1]
         curr_flip_sequence = flip_list[0]
-        print("curr flip seq: ", curr_flip_sequence)
-        print("curr book stack: " + str(curr_stack))
+        #print("curr flip seq: ", curr_flip_sequence)
+        #print("curr book stack: " + str(curr_stack))
         visited.add((tuple(curr_stack.order), tuple(curr_stack.orientations)))
         if curr_stack.check_ordered():
             flip_sequence = curr_flip_sequence
@@ -95,8 +95,8 @@ def depth_first_search(stack):
         flip_list = search_stack.pop()
         curr_stack = flip_list[1]
         curr_flip_sequence = flip_list[0]
-        print("curr flip seq: ", curr_flip_sequence)
-        print("curr book stack: " + str(curr_stack))
+        #print("curr flip seq: ", curr_flip_sequence)
+        #print("curr book stack: " + str(curr_stack))
         visited.add((tuple(curr_stack.order), tuple(curr_stack.orientations)))
         if curr_stack.check_ordered():
             flip_sequence = curr_flip_sequence
@@ -129,7 +129,7 @@ def depth_first_search(stack):
 # print(output4)  # e.g. [2, 3] (may vary depending on BFS/DFS order)
 # print(apply_sequence(test4, output4).check_ordered())  # True
 
-test5 = TextbookStack(initial_order=[1, 3, 0, 2], initial_orientations=[0, 1, 0, 1])
-output5 = depth_first_search(test5)
-print(output5)  # sequence of flips, may vary
-print(apply_sequence(test5, output5).check_ordered())  # True
+# test5 = TextbookStack(initial_order=[1, 3, 0, 2], initial_orientations=[0, 1, 0, 1])
+# output5 = depth_first_search(test5)
+# print(output5)  # sequence of flips, may vary
+# print(apply_sequence(test5, output5).check_ordered())  # True
